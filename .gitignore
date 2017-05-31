@@ -1,3 +1,5 @@
 # Notebooks
 .ipynb_checkpoints
 Kaggle/*.csv
+metastore_db/*
+derby.log
