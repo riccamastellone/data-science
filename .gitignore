@@ -3,3 +3,4 @@
 Kaggle/*.csv
 metastore_db/*
 derby.log
+Playground/*
